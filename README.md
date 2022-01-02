@@ -1,2 +1,2 @@
 # github-ci
-CI/CD PIPELINE !
+![](https://github.com/H-E-R-A/github-ci/workflows/CI/badge.svg)
